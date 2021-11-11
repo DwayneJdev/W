@@ -1,1 +1,1 @@
-# WOL-Server
+# W
